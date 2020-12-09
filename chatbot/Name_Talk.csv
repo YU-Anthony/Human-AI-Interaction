@@ -1,0 +1,19 @@
+Question,Document
+hi,small_talk_1
+hi,small_talk_1
+greetings,small_talk_1
+good day,small_talk_1
+hey,small_talk_1
+"hello, i need help",small_talk_1
+hello,small_talk_1
+how are you,small_talk_1
+thanks,small_talk_2
+thank you,small_talk_2
+what time,small_talk_3
+got the time,small_talk_3
+my name is,change_name
+call me,change_name
+new name is,change_name
+change name to,change_name
+what is my name,ask_name
+do you know my name,ask_name
